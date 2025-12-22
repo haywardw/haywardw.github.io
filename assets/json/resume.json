@@ -104,7 +104,8 @@
       "endDate": "Fall 2025"
     },
     {
-      "name": "<a href='https://github.com/haywardw/672finalproject'>Modeling Land Use Change in Wake County as a Discrete Time Markov Chain</a>",
+      "name": "Modeling Land Use Change in Wake County as a Discrete Time Markov Chain",
+      "url": "https://github.com/haywardw/672finalproject",
       "summary": "PLAN 672 final project. Used parcel level data from Wake County to model land use change as a Markov Chain. Utilized R.",
       "startDate": "Fall 2025",
       "endDate": "Fall 2025"
