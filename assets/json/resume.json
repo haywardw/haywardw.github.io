@@ -30,7 +30,8 @@
       "endDate": "2026-05-01",
       "courses": [
         "Minors: Urban Studies/Planning, Sustainability Studies",
-        "Relevant Courses: Stochastic Modeling, Intro. Data Science, Intro. Optimization, Intro. Probability, Simulation for Analytics, Machine Learning, Urban Data Analytics, Methods of Data Analysis, Linear Algebra, Data Structures, Differential Equations (+ Lab), Discrete Math, Calculus I-III"
+        "Relevant Courses: Computational Analysis of Big Data, Data Structures, Differential Equations (+ Lab), Discrete Math, GIS, Intro. Data Science, Intro. Optimization, Intro. Probability, Linear Algebra, Machine Learning, Methods of Data Analysis, Simulation for Analytics, Stochastic Modeling, Urban Data Analytics",
+        "Study Abroad: DIS Copenhagen, Fall 2024"
       ]
     }
   ],
@@ -60,7 +61,38 @@
   "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Python and R for Data Science",
+      "level": "Advanced",
+      "icon": "fa-database",
+      "keywords": [
+        "Analytical Thinking",
+        "Pandas",
+        "SQL Queries",
+        "Tidyverse",
+        "Data Science",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Python for Programming",
+      "level": "Adept",
+      "icon": "fa-python",
+      "keywords": [
+        "Data Structures",
+        "Algorithms",
+        "Familiarity with principles of programming"
+      ]
+    },
+    {
+      "name": "Analytical and Critical Thinking",
+      "keywords": [
+        "Ability to communicate technical ideas",
+        "Adept at distilling raw data into clear insights"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
@@ -72,8 +104,14 @@
       "endDate": "Fall 2025"
     },
     {
-      "name": "Modeling Land Use Change in Wake County as a Discrete Time Markov Chain",
+      "name": "<a href='https://github.com/haywardw/672finalproject'>Modeling Land Use Change in Wake County as a Discrete Time Markov Chain</a>",
       "summary": "PLAN 672 final project. Used parcel level data from Wake County to model land use change as a Markov Chain. Utilized R.",
+      "startDate": "Fall 2025",
+      "endDate": "Fall 2025"
+    },
+    {
+      "name": "SIR Compartmental Model Analysis",
+      "summary": "MATH 383L final group project. Analysis of variations of the Susceptible-Infectious-Recovered compartmental model via differential equations and MATLAB.",
       "startDate": "Fall 2025",
       "endDate": "Fall 2025"
     }
