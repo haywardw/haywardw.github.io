@@ -9,7 +9,70 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-resume",
+  },{id: "dropdown-film-poster-main-page",
+              title: "Film Poster (Main Page)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/films/film-poster/";
+              },
+            },{id: "dropdown-about-me",
+              title: "About Me",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/films/about-me/";
+              },
+            },{id: "dropdown-resume",
+              title: "Resume",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/films/resume/";
+              },
+            },{id: "dropdown-linkedin",
+              title: "LinkedIn",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "https://www.linkedin.com/in/william-hayward/";
+              },
+            },{id: "dropdown-film-statement",
+              title: "Film Statement",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/films/film-statement/";
+              },
+            },{id: "dropdown-two-quotes",
+              title: "Two Quotes",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/films/quotes/";
+              },
+            },{id: "dropdown-interviews",
+              title: "Interviews",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/films/interviews/";
+              },
+            },{id: "dropdown-discussion-forum",
+              title: "Discussion Forum",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/films/discussion-forum/";
+              },
+            },{id: "dropdown-films",
+              title: "Films",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/films/films/";
+              },
+            },{id: "nav-resume",
           title: "resume",
           description: "",
           section: "Navigation",
