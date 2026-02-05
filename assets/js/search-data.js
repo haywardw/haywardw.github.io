@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-film-poster-main-page",
+  },{id: "nav-film-blog",
+          title: "film blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "dropdown-film-poster-main-page",
               title: "Film Poster (Main Page)",
               description: "",
               section: "Dropdown",
@@ -79,7 +86,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-5-second-film-update-1",
+        
+          title: "5 second film - update 1",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/5second-film-update1/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
