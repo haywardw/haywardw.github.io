@@ -86,9 +86,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "post-5-second-film-update-1",
+        },{id: "post-5-second-film",
         
-          title: "5 second film - update 1",
+          title: "5 second film",
         
         description: "",
         section: "Posts",
