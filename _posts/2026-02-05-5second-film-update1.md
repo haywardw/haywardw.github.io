@@ -100,3 +100,12 @@ We took a lot of takes for each scene until we felt we had enough to chop up in 
 <div class='caption'>
     Various photos from the set.
 </div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/ADpIo1K4bdk" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/8qdisEbWiWw" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
