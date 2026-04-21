@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv_films
 title: Resume
 permalink: /films/resume/
 description: Academic resume for film professional.

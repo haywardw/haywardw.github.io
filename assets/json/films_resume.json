@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "William Hayward",
+    "email": "william.hayward@unc.edu",
+    "url": "https://haywardw.github.io",
+    "summary": "Creative filmmaker at UNC-Chapel Hill. Specializations in editing and interest in audio engineering.",
+    "location": {
+      "city": "Chapel Hill",
+      "region": "NC",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "haywardw",
+        "url": "https://github.com/haywardw"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "william-hayward",
+        "url": "https://www.linkedin.com/in/william-hayward"
+      },
+      {
+        "network": "YouTube",
+        "username": "@haywardwill",
+        "url": "https://www.youtube.com/@haywardwill"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "studyType": "BS in Statistics and Analytics",
+      "startDate": "2022-08-01",
+      "endDate": "2026-05-01",
+      "courses": [
+        "Minors: Urban Studies/Planning, Sustainability Studies",
+        "Relevant Courses: Crafting the Dramatic Film, Global Authors: Cervantes, English Composition and Rhetoric, Oral Presentations",
+        "Study Abroad: DIS Copenhagen, Fall 2024"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "University of North Carolina at Chapel Hill",
+      "position": "Student Assistant",
+      "startDate": "2025-12-01",
+      "endDate": "2026-05-01",
+      "summary": "Professor's assistant in urban/regional planning department"
+    },
+    {
+      "name": "Liberty Mutual Insurance",
+      "position": "Analyst Intern",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "summary": "Machine learning explainability"
+    },
+    {
+      "name": "UnitedHealth Group (Optum Insight)",
+      "position": "Analyst Intern",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "summary": "Claims processing optimization"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Crafting dramatic films",
+      "level": "Adavanced",
+      "icon": "fa-film",
+      "keywords": [
+        "Editing and cutting",
+        "Audio engineering",
+        "Script writing",
+        "Creative team-player"
+      ]
+    },
+    {
+      "name": "Python and R for Data Science",
+      "level": "Advanced",
+      "icon": "fa-database",
+      "keywords": [
+        "Analytical Thinking",
+        "Pandas",
+        "SQL Queries",
+        "Tidyverse",
+        "Data Science",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Python for Programming",
+      "level": "Adept",
+      "icon": "fa-python",
+      "keywords": [
+        "Data Structures",
+        "Algorithms",
+        "Familiarity with principles of programming"
+      ]
+    },
+    {
+      "name": "Analytical and Critical Thinking",
+      "keywords": [
+        "Ability to communicate technical ideas",
+        "Adept at distilling raw data into clear insights"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "The Hunt",
+      "url": "https://www.youtube.com/watch?v=VctANKVNFaM",
+      "summary": "Tech person and film blogger for a 5 second dramatic film. I was an actor in a small scene, but mainly assisted the group with organization and keeping track of deadlines.",
+      "startDate": "Spring 2026",
+      "endDate": "Spring 2026"
+    },
+    {
+      "name": "Gimghoul or Nothing",
+      "url": "https://www.youtube.com/watch?v=Fx7Awq_Quwc",
+      "summary": "Film cutter and audio editor for a dramatic 'campus life' film. Utilized DaVinci Resolve to cut 5+ hours of footage down to a 7 minute film.",
+      "startDate": "Spring 2026",
+      "endDate": "Spring 2026"
+    },
+    {
+      "name": "Dirty Dishes",
+      "url": "https://www.youtube.com/watch?v=mCOyyj5TeS0",
+      "summary": "Screenwriter, storyboarder, and actor for a dialogue film. Shot entirely in one take and used improv for a majority of the content.",
+      "startDate": "Spring 2026",
+      "endDate": "Spring 2026"
+    }
+  ]
+}
